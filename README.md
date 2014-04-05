@@ -1,4 +1,4 @@
-workreport
+workstore
 ==========
 
-Work Reporting System for a Organization
+Daily Work Reporting System for an Organization
